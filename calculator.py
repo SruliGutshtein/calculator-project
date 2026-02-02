@@ -5,5 +5,5 @@ def subtract(a, b):
     return a - b
 
 def multiply(a, b):
-    """מכפיל מספר בחברו"""
+    """Multiply two numbers."""
     return a * b
